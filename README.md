@@ -18,3 +18,23 @@
         ║                                                    ║"
         ╚════════════════════════════════════════════════════╝"
     
++++
+Downloading:
+ - kitty
+ - zsh
+ - bottom
+ - yazi
+ - nvim
+ - vim
+ - telegram-desktop
+ - firefox
+
+
+---
+How to use ?
+```
+git clone my repo
+cd MineNvimZSHrc-dotfiles
+chmod +x install-all-need.sh
+./install-all-need.sh      
+```
