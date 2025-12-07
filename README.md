@@ -33,7 +33,7 @@ Downloading:
 ---
 How to use ?
 ```
-git clone my repo
+git clone https://github.com/stakingsnakes/MineNvimZSHrc-dotfiles.git
 cd MineNvimZSHrc-dotfiles
 chmod +x install-all-need.sh
 ./install-all-need.sh      
